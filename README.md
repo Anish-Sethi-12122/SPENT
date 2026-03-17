@@ -118,7 +118,7 @@ SPENT relies on proprietary Nothing fonts for its identity:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/SPENT.git
+git clone https://github.com/Anish-Sethi-12122/SPENT.git
 cd SPENT
 
 # Install dependencies
