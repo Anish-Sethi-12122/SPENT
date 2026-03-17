@@ -109,13 +109,13 @@ Tap **+ ADD**, enter amount, done in seconds.
 Built using Nothing’s design system.
 
 ### Color Palette
-| Token | Hex | Usage |
-| :--- | :--- | :--- |
-| **Pure Black** | `#000000` | Background |
-| **Glass Dark** | `#1B1B1D` | Surfaces |
-| **Primary Light** | `#FDFBFF` | Text |
-| **Secondary Dark** | `#5E5E62` | Subtle UI |
-| **Alert Red** | `#D81921` | Over-budget |
+| Token | Hex | Usage | Preview |
+| :--- | :--- | :--- | :--- |
+| **Pure Black** | `#000000` | Background | <span style="display:inline-block;width:20px;height:20px;background:#000000;border-radius:4px;"></span> |
+| **Glass Dark** | `#1B1B1D` | Surfaces | <span style="display:inline-block;width:20px;height:20px;background:#1B1B1D;border-radius:4px;"></span> |
+| **Primary Light** | `#FDFBFF` | Text | <span style="display:inline-block;width:20px;height:20px;background:#FDFBFF;border:1px solid #ccc;border-radius:4px;"></span> |
+| **Secondary Dark** | `#5E5E62` | Subtle UI | <span style="display:inline-block;width:20px;height:20px;background:#5E5E62;border-radius:4px;"></span> |
+| **Alert Red** | `#D81921` | Over-budget | <span style="display:inline-block;width:20px;height:20px;background:#D81921;border-radius:4px;"></span> |
 
 ### Typography
 * **ndot** — Hero numbers  
