@@ -24,7 +24,7 @@ Most finance tools are bloated with charts, categories, and notifications you ne
 
 > *"How much have I spent today?"*
 
-Designed for zero learning curve and instant feedback, SPENT operates on a strictly 24-hour cycle. You set a limit. You log expenses. It resets at midnight. No history to obsess over, just today's reality.
+Designed for zero learning curve and instant feedback, SPENT operates on a strictly 24-hour cycle. You set a limit. You log expenses. It resets at midnight. No yesterday to obsess over, no tomorrow to think about, just today's reality.
 
 ---
 
