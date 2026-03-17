@@ -31,7 +31,7 @@ Most finance tools are bloated with charts, categories, and notifications you ne
 > *"How much have I spent today?"*
 
 Most budgeting apps fail because they rely on consistency.  
-SPENT assumes you won’t be consistent — and designs for that.
+SPENT assumes you won’t be consistent - and designs for that.
 
 Designed for zero learning curve and instant feedback, SPENT runs on a strict 24-hour cycle. You set a limit. You log expenses. It resets. No history. No pressure. Just today's reality.
 
@@ -39,7 +39,7 @@ Designed for zero learning curve and instant feedback, SPENT runs on a strict 24
 
 ## What is an Essential App?
 
-SPENT is an **[Essential App](https://playground.nothing.tech/apps)** — a new way of building small, focused widgets instead of full-scale apps.
+SPENT is an **[Essential App](https://playground.nothing.tech/apps)** - a new way of building small, focused widgets instead of full-scale apps.
 
 Built using **[Nothing Playground](https://playground.nothing.tech)**:
 
