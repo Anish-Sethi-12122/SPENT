@@ -111,11 +111,11 @@ Built using Nothing’s design system.
 ### Color Palette
 | Token | Hex | Usage | Preview |
 | :--- | :--- | :--- | :--- |
-| **Pure Black** | `#000000` | Background | <span style="display:inline-block;width:20px;height:20px;background:#000000;border-radius:4px;"></span> |
-| **Glass Dark** | `#1B1B1D` | Surfaces | <span style="display:inline-block;width:20px;height:20px;background:#1B1B1D;border-radius:4px;"></span> |
-| **Primary Light** | `#FDFBFF` | Text | <span style="display:inline-block;width:20px;height:20px;background:#FDFBFF;border:1px solid #ccc;border-radius:4px;"></span> |
-| **Secondary Dark** | `#5E5E62` | Subtle UI | <span style="display:inline-block;width:20px;height:20px;background:#5E5E62;border-radius:4px;"></span> |
-| **Alert Red** | `#D81921` | Over-budget | <span style="display:inline-block;width:20px;height:20px;background:#D81921;border-radius:4px;"></span> |
+| **Pure Black** | `#000000` | Background | ![#000000](https://via.placeholder.com/20/000000/000000?text=+) |
+| **Glass Dark** | `#1B1B1D` | Surfaces | ![#1B1B1D](https://via.placeholder.com/20/1B1B1D/1B1B1D?text=+) |
+| **Primary Light** | `#FDFBFF` | Text | ![#FDFBFF](https://via.placeholder.com/20/FDFBFF/FDFBFF?text=+) |
+| **Secondary Dark** | `#5E5E62` | Subtle UI | ![#5E5E62](https://via.placeholder.com/20/5E5E62/5E5E62?text=+) |
+| **Alert Red** | `#D81921` | Over-budget | ![#D81921](https://via.placeholder.com/20/D81921/D81921?text=+) |
 
 ### Typography
 * **ndot** — Hero numbers  
