@@ -78,6 +78,7 @@ SPENT was created entirely through Nothing Playground during the **Nothing Hacka
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/images/widget_over.png" alt="Over Budget" width="240" />
 </p>
+
 * **Ephemeral by Design:** A strict 24-hour auto-reset builds daily awareness without the guilt of past spending.
 * **Smart Localization:** Automatically adapts to your local currency with zero configuration.
 
