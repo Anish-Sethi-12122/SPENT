@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "SPENT",
+    "slug": "spent",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "spent",
+    "platforms": ["ios", "android"],
+    "assetBundlePatterns": ["**/*"]
+  }
+}
