@@ -111,11 +111,13 @@ Built using Nothing’s design system.
 ### Color Palette
 | Token | Hex | Usage | Preview |
 | :--- | :--- | :--- | :--- |
-| **Pure Black** | `#000000` | Background | ![](https://img.shields.io/badge/-000000?style=flat-square&color=000000) |
-| **Glass Dark** | `#1B1B1D` | Surfaces | ![](https://img.shields.io/badge/-1B1B1D?style=flat-square&color=1B1B1D) |
-| **Primary Light** | `#FDFBFF` | Text | ![](https://img.shields.io/badge/-FDFBFF?style=flat-square&color=FDFBFF) |
-| **Secondary Dark** | `#5E5E62` | Subtle UI | ![](https://img.shields.io/badge/-5E5E62?style=flat-square&color=5E5E62) |
-| **Alert Red** | `#D81921` | Over-budget | ![](https://img.shields.io/badge/-D81921?style=flat-square&color=D81921) |
+| **Pure Black** | `#000000` | Background | ![](https://img.shields.io/badge/%20-000000?style=flat-square&color=000000) |
+| **Glass Dark** | `#1B1B1D` | Surfaces | ![](https://img.shields.io/badge/%20-1B1B1D?style=flat-square&color=1B1B1D) |
+| **Primary Light** | `#FDFBFF` | Text | ![](https://img.shields.io/badge/%20-FDFBFF?style=flat-square&color=FDFBFF) |
+| **Secondary Dark** | `#5E5E62` | Subtle UI | ![](https://img.shields.io/badge/%20-5E5E62?style=flat-square&color=5E5E62) |
+| **Amber** | `#FFC107` | Caution (80%+) | ![](https://img.shields.io/badge/%20-FFC107?style=flat-square&color=FFC107) |
+| **Orange** | `#FF9800` | Warning (90%+) | ![](https://img.shields.io/badge/%20-FF9800?style=flat-square&color=FF9800) |
+| **Alert Red** | `#D81921` | Over-budget | ![](https://img.shields.io/badge/%20-D81921?style=flat-square&color=D81921) |
 
 ### Typography
 * **ndot** — Hero numbers  
