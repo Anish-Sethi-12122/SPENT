@@ -30,7 +30,7 @@ Designed for zero learning curve and instant feedback, SPENT operates on a stric
 
 ## /// What is an Essential App?
 
-SPENT is an **[Essential App](https://nothing.tech/pages/essential-apps)** — part of Nothing's bold new initiative to reimagine how apps are made and used.
+SPENT is an **[Essential App](https://playground.nothing.tech/apps)** — part of Nothing's bold new initiative to reimagine how apps are made and used.
 
 ### The Vision
 
