@@ -147,12 +147,28 @@ npx expo start
   
 ```
 SPENT/
-├── App.tsx
-├── src/styles/tokens.ts
+│
+├── App.tsx                     
+├── index.js                    
+│
+├── src/
+│   └── styles/
+│       └── tokens.ts           
+│
 ├── assets/
-├── app.json
-├── package.json
-└── tsconfig.json
+│   └── fonts/                 
+│       ├── ndot.otf           
+│       ├── Inter.ttf          
+│       └── NType82.ttf        
+│
+├── app.json                   
+├── package.json                
+├── tsconfig.json           
+│
+├── .gitignore               
+├── LICENSE              
+├── README.md               
+└── PROJECT_STRUCTURE.md     
 ```
 
 ---
