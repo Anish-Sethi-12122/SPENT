@@ -144,7 +144,8 @@ npx expo start
 * Storage: AsyncStorage (local-only)
 
 * Localization: expo-localization
-
+  
+```
 SPENT/
 ├── App.tsx
 ├── src/styles/tokens.ts
@@ -152,6 +153,7 @@ SPENT/
 ├── app.json
 ├── package.json
 └── tsconfig.json
+```
 
 ---
 
