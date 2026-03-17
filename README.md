@@ -57,7 +57,7 @@ SPENT was created entirely through Nothing Playground during the **Nothing Hacka
 
 | Resource | Link |
 | :--- | :--- |
-| Essential Apps Overview | [[nothing.tech/pages/essential-apps](https://nothing.tech/pages/essential-apps)](https://playground.nothing.tech/apps) |
+| Essential Apps Overview | [nothing.tech/pages/essential-apps](https://playground.nothing.tech/apps) |
 | Nothing Playground | [playground.nothing.tech](https://playground.nothing.tech) |
 | Nothing Community | [nothing.community](https://nothing.community) |
 | Nothing Phone (3) | [nothing.tech/pages/phone-3](https://nothing.tech/pages/phone-3) |
