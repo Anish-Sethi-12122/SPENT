@@ -198,6 +198,6 @@ No — each day resets intentionally.
 
 License: MIT License
 
-> Font Notice: ndot and NType82 are proprietary assets owned by Nothing Technology and Colophon Foundry. They are not included in this repository.
+> Font Notice: `ndot` and `NType82` are proprietary assets owned by Nothing Technology and Colophon Foundry. They are not included in this repository.
 
-<p align="center"> <b>SPENT</b><br/> <i>Track less. Understand more.</i> </p> ```
+<p align="center"> <b>SPENT</b><br/> <i>Track less. Understand more.</i> </p>
