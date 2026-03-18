@@ -74,8 +74,7 @@ This approach is what Nothing calls **"vibe coding"**.
 ## Why so minimal?
 
 Most finance apps optimize for completeness.
-
-SPENT optimizes for consistency.
+SPENT focuses on milimalism.
 
 Fewer features → lower friction → higher chance you actually use it.
 
